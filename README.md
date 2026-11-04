@@ -70,7 +70,7 @@ Un seul objectif : savoir expliquer, preuves à l'appui, ce qui circule sur les 
 - Capturer et filtrer des paquets, produire des preuves reproductibles.
 - Discuter chiffrement, segmentation, breakout local, haute disponibilité et limites opérationnelles.
 
-### 1.3 Ce qui est réel, ce qui est simulé
+### 1.3 Ce qui est réel, ce qui est simulé 
 
 | Composant | Réellement observé | Limite pédagogique |
 |---|---|---|
